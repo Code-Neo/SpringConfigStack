@@ -1,0 +1,2 @@
+config: 
+    version: springconfig-prod.version = 1
